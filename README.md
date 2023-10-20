@@ -54,6 +54,4 @@
 
 ![hwikyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi215&hide=prs,stars,issues,contribs&count_private=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi215&layout=compact)](
-https://github.com/hwi215)
+ 
